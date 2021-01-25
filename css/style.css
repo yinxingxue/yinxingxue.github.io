@@ -192,6 +192,15 @@ div.tab button.active {
 	font-size: 0.9em;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.pdfdownload{
+	line-height: 90%;
+	margin: 0 auto;
+	color: #556a7f !important;
+	line-height: 1.5em;
+	font-weight: 530;
+	font-size: 0.9em;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 .titletext-link2{
 	line-height: 90%;
 	margin: 0 auto;
