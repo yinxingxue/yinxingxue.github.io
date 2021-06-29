@@ -165,6 +165,22 @@ div.tab button.active {
 }
 .MsoNormal-link:hover {color:#556a7f;}  /* 鼠标移动到链接上 */
 .MsoNormal-link:active {color:#556a7f;}  /* 鼠标点击时 */
+
+.LabHomepage-link{
+	line-height: 180%;
+	margin: 0 auto;
+	color: #FF0000;
+	line-height: 1.1em;
+	font-weight: 600;
+	font-size: 1.0em;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: ;
+	text-decoration:underline
+	/* font-family:'Courier New', Courier, monospace; */
+}
+.LabHomepage-link:hover {color:#556a7f;}  /* 鼠标移动到链接上 */
+.LabHomepage-link:active {color:#556a7f;}  /* 鼠标点击时 */
+
 .titletext{
 	line-height: 100%;
 	margin: 0 auto;
